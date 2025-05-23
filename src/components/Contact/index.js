@@ -12,7 +12,7 @@ position: relative;
 z-index: 1;
 align-items: center;
 @media (max-width: 960px) {
-    padding: 0px;
+    padding: 1px;
 }
 `
 
