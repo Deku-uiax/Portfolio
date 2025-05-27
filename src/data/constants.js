@@ -312,28 +312,21 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "Ecommerce",
+    date: "April 2025 - May 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "From smart home devices and wearable tech to mobile accessories and cutting-edge electronics, we bring you top-quality products from leading brands at competitive prices. Whether you're a tech enthusiast or just looking to upgrade your lifestyle, our curated selection ensures you stay ahead of the curve. Shop with confidence and enjoy fast shipping, secure checkout, and excellent customer support.",
     image:
       "",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
+      "Django",
       "React Js",
       "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "python",
     ],
-    category: "web app",
+    category: "web site",
     github: "https://github.com/Deku-uiax",
-    webapp: "",
+    webapp: "https://sonicgear-e-commerce-01.onrender.com/",
   },
   {
     id: 0,
