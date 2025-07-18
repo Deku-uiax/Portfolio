@@ -317,7 +317,7 @@ export const projects = [
     description:
       "From smart home devices and wearable tech to mobile accessories and cutting-edge electronics, we bring you top-quality products from leading brands at competitive prices. Whether you're a tech enthusiast or just looking to upgrade your lifestyle, our curated selection ensures you stay ahead of the curve. Shop with confidence and enjoy fast shipping, secure checkout, and excellent customer support.",
     image:
-      "",
+      "https://i.imgur.com/1J56jsk.jpeg",
     tags: [
       "Django",
       "React Js",
@@ -330,28 +330,28 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Podstream",
+    title: "Receipe Junctoin",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Recipe Junction is a dynamic web application that allows users to search for recipes based on ingredients, meal names, or cuisine types using a public recipe API (e.g., Spoonacular or Edamam). The app provides users with detailed cooking instructions, nutritional information, preparation time, and more — all in an intuitive and responsive interface.",
     image:
       "",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["javascript", "css", "API", "HTML Framework"],
     category: "web app",
     github: "https://github.com/Deku-uiax",
-    webapp: "",
+    webapp: "https://receipejunction.netlify.app/",
     member: [
       {
-        name: "",
+        name: "ujjal paudel",
         img: "",
         linkedin: "",
         github: "https://github.com/Deku-uiax",
       },
       {
-        name: "",
+        name: "Nabin Pant",
         img: "",
         linkedin: "",
-        github: "https://github.com/Deku-uiax",
+        github: "https://github.com/Lil-Jaguar",
       },
     ],
   },
